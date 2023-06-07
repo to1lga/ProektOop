@@ -1,0 +1,8 @@
+This is my Snake Game:
+
+You must play with:
+
+W- up move
+S- down move
+A- left move
+D- right move
